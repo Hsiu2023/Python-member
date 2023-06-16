@@ -1,2 +1,2 @@
 Flask==2.2.2
-pymongo==22.0.4
+pymongo==4.3.3
